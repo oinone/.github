@@ -47,35 +47,32 @@ TODO-PIC
 Unrestricted business scenarios with elastic scaling capabilities.
 TODO-PIC
 
-### 5. Localization Support
-TODO-PIC
-
-### 6. Trusted By
+### 5. Trusted By
 TODO-PIC
  _Partial clients shown in random order_ 
 
-### 7. White Paper
+### 6. White Paper
 - [White Paper](https://e.gitee.com/shushiwangluo/repos/oinone/docs/tree/dev%2Fprl/src%2Fzh-cn%2FProductWhitePaper)
 
-### 8. User Guide
+### 7. User Guide
 - [User Guide](https://e.gitee.com/shushiwangluo/repos/oinone/docs/tree/dev%2Fprl/src%2Fzh-cn%2FUserHandbook)
 
-### 9. Installation Or Upgrade
+### 8. Installation Or Upgrade
 - [Installation Or Upgrade](https://e.gitee.com/shushiwangluo/repos/oinone/docs/tree/dev%2Fprl/src%2Fzh-cn%2FInstallOrUpgrade)
 
-### 10. Developer Manual
+### 9. Developer Manual
 - [Installation Or Upgrade](https://e.gitee.com/shushiwangluo/repos/oinone/docs/tree/dev%2Fprl/src%2Fzh-cn%2FDevelopment)
 
-### 11. Source Code
-#TBD#
+### 10. Source Code
+- Get the latest code from github/oinone.
 
-### 12. Training Center
+### 11. Training Center
 - [Training Center](https://e.gitee.com/shushiwangluo/repos/oinone/docs/tree/dev%2Fprl/src%2Fzh-cn%2FTrainingCenter)
 
-### 13. Contribution
+### 12. Contribution
 - [Contribution](https://e.gitee.com/shushiwangluo/repos/oinone/docs/tree/dev%2Fprl/src%2Fzh-cn%2FContribute)
 
-### 14. Community Participation
+### 13. Community Participation
 - [Join the community](https://e.gitee.com/shushiwangluo/repos/oinone/docs/blob/dev%2Fprl/src%2Fzh-cn%2FContribute%2FREADME.md)
 - [How to contribute](https://e.gitee.com/shushiwangluo/repos/oinone/docs/blob/dev%2Fprl/src%2Fzh-cn%2FContribute%2FREADME.md)
 
