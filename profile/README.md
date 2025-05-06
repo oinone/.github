@@ -55,25 +55,25 @@ TODO-PIC
  _Partial clients shown in random order_ 
 
 ### 7. White Paper
-[White Paper](https://e.gitee.com/shushiwangluo/repos/oinone/docs/tree/dev%2Fprl/src%2Fzh-cn%2FProductWhitePaper)
+- [White Paper](https://e.gitee.com/shushiwangluo/repos/oinone/docs/tree/dev%2Fprl/src%2Fzh-cn%2FProductWhitePaper)
 
 ### 8. User Guide
-[User Guide](https://e.gitee.com/shushiwangluo/repos/oinone/docs/tree/dev%2Fprl/src%2Fzh-cn%2FUserHandbook)
+- [User Guide](https://e.gitee.com/shushiwangluo/repos/oinone/docs/tree/dev%2Fprl/src%2Fzh-cn%2FUserHandbook)
 
 ### 9. Installation Or Upgrade
-[Installation Or Upgrade](https://e.gitee.com/shushiwangluo/repos/oinone/docs/tree/dev%2Fprl/src%2Fzh-cn%2FInstallOrUpgrade)
+- [Installation Or Upgrade](https://e.gitee.com/shushiwangluo/repos/oinone/docs/tree/dev%2Fprl/src%2Fzh-cn%2FInstallOrUpgrade)
 
 ### 10. Developer Manual
-[Installation Or Upgrade](https://e.gitee.com/shushiwangluo/repos/oinone/docs/tree/dev%2Fprl/src%2Fzh-cn%2FDevelopment)
+- [Installation Or Upgrade](https://e.gitee.com/shushiwangluo/repos/oinone/docs/tree/dev%2Fprl/src%2Fzh-cn%2FDevelopment)
 
 ### 11. Source Code
 #TBD#
 
 ### 12. Training Center
-[Training Center](https://e.gitee.com/shushiwangluo/repos/oinone/docs/tree/dev%2Fprl/src%2Fzh-cn%2FTrainingCenter)
+- [Training Center](https://e.gitee.com/shushiwangluo/repos/oinone/docs/tree/dev%2Fprl/src%2Fzh-cn%2FTrainingCenter)
 
 ### 13. Contribution
-[Contribution](https://e.gitee.com/shushiwangluo/repos/oinone/docs/tree/dev%2Fprl/src%2Fzh-cn%2FContribute)
+- [Contribution](https://e.gitee.com/shushiwangluo/repos/oinone/docs/tree/dev%2Fprl/src%2Fzh-cn%2FContribute)
 
 ### 14. Community Participation
 - [Join the community](https://e.gitee.com/shushiwangluo/repos/oinone/docs/blob/dev%2Fprl/src%2Fzh-cn%2FContribute%2FREADME.md)
