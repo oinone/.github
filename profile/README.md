@@ -55,33 +55,33 @@ TODO-PIC
  _Partial clients shown in random order_ 
 
 ### 7. White Paper
-[产品白皮书](https://e.gitee.com/shushiwangluo/repos/oinone/docs/tree/dev%2Fprl/src%2Fzh-cn%2FProductWhitePaper)
+[White Paper](https://e.gitee.com/shushiwangluo/repos/oinone/docs/tree/dev%2Fprl/src%2Fzh-cn%2FProductWhitePaper)
 
 ### 8. User Guide
-[用户手册](https://e.gitee.com/shushiwangluo/repos/oinone/docs/tree/dev%2Fprl/src%2Fzh-cn%2FUserHandbook)
+[User Guide](https://e.gitee.com/shushiwangluo/repos/oinone/docs/tree/dev%2Fprl/src%2Fzh-cn%2FUserHandbook)
 
 ### 9. Installation Or Upgrade
-[安装与升级](https://e.gitee.com/shushiwangluo/repos/oinone/docs/tree/dev%2Fprl/src%2Fzh-cn%2FInstallOrUpgrade)
+[Installation Or Upgrade](https://e.gitee.com/shushiwangluo/repos/oinone/docs/tree/dev%2Fprl/src%2Fzh-cn%2FInstallOrUpgrade)
 
 ### 10. Developer Manual
-[研发手册](https://e.gitee.com/shushiwangluo/repos/oinone/docs/tree/dev%2Fprl/src%2Fzh-cn%2FDevelopment)
+[Installation Or Upgrade](https://e.gitee.com/shushiwangluo/repos/oinone/docs/tree/dev%2Fprl/src%2Fzh-cn%2FDevelopment)
 
 ### 11. Source Code
 #TBD#
 
 ### 12. Training Center
-[培训中心](https://e.gitee.com/shushiwangluo/repos/oinone/docs/tree/dev%2Fprl/src%2Fzh-cn%2FTrainingCenter)
+[Training Center](https://e.gitee.com/shushiwangluo/repos/oinone/docs/tree/dev%2Fprl/src%2Fzh-cn%2FTrainingCenter)
 
 ### 13. Contribution
-[贡献手册](https://e.gitee.com/shushiwangluo/repos/oinone/docs/tree/dev%2Fprl/src%2Fzh-cn%2FContribute)
+[Contribution](https://e.gitee.com/shushiwangluo/repos/oinone/docs/tree/dev%2Fprl/src%2Fzh-cn%2FContribute)
 
 ### 14. Community Participation
-参与社区：#TBD# 社区介绍文档
-参与贡献：[参与贡献](https://e.gitee.com/shushiwangluo/repos/oinone/docs/blob/dev%2Fprl/src%2Fzh-cn%2FContribute%2FREADME.md)
+Join the community：#TBD# communite descr. doc
+How to contribute：[How to contribute](https://e.gitee.com/shushiwangluo/repos/oinone/docs/blob/dev%2Fprl/src%2Fzh-cn%2FContribute%2FREADME.md)
 
 ### 15. License
 Oinone repository is licensed under AGPL-3.0.
-Third party notice: [三方开源软件及许可说明](http://https://e.gitee.com/shushiwangluo/repos/oinone/docs/blob/dev%2Fprl/src/zh-cn/ThirdParty/README.md)
+Third party notice: [Third party notice](http://https://e.gitee.com/shushiwangluo/repos/oinone/docs/blob/dev%2Fprl/src/zh-cn/ThirdParty/README.md)
 
 ### 16. Contact Us
 Website: https://www.oinone.top
