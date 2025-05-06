@@ -76,13 +76,13 @@ TODO-PIC
 [Contribution](https://e.gitee.com/shushiwangluo/repos/oinone/docs/tree/dev%2Fprl/src%2Fzh-cn%2FContribute)
 
 ### 14. Community Participation
-Join the community：#TBD# communite descr. doc
-How to contribute：[How to contribute](https://e.gitee.com/shushiwangluo/repos/oinone/docs/blob/dev%2Fprl/src%2Fzh-cn%2FContribute%2FREADME.md)
+- [Join the community](https://e.gitee.com/shushiwangluo/repos/oinone/docs/blob/dev%2Fprl/src%2Fzh-cn%2FContribute%2FREADME.md)
+- [How to contribute](https://e.gitee.com/shushiwangluo/repos/oinone/docs/blob/dev%2Fprl/src%2Fzh-cn%2FContribute%2FREADME.md)
 
 ### 15. License
-Oinone repository is licensed under AGPL-3.0.
-Third party notice: [Third party notice](http://https://e.gitee.com/shushiwangluo/repos/oinone/docs/blob/dev%2Fprl/src/zh-cn/ThirdParty/README.md)
+- Oinone repository is licensed under AGPL-3.0.
+- [Third party notice](http://https://e.gitee.com/shushiwangluo/repos/oinone/docs/blob/dev%2Fprl/src/zh-cn/ThirdParty/README.md)
 
 ### 16. Contact Us
-Website: https://www.oinone.top
-Email: oinone@shushi.pro
+- Website: https://www.oinone.top
+- Email: oinone@shushi.pro
