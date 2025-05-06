@@ -1,10 +1,10 @@
 ### 1. Organization Overview
-Oinone, a flagship product under Shushi Tech, is a low-code/no-code platform designed for complex scenarios. The "O" represents open source while phonetically echoing "All in One," symbolizing:
+Oinone, an enterprise-grade productization engine under Shushi Tech, is a unified low-code platform empowering enterprises to drive standardized R&D and agile delivery. Focused on addressing the productization transformation needs of software companies and ISV clients, it resolves the long-standing industry dilemma of fragmented standardized product development and customized delivery through its integrated "Standardized R&D + Agile Delivery" architecture. The "O" symbolizes open source while phonetically resonating with "All in one,"  symbolizing:
  - One-stop solutions
  - Agile responsiveness
  - Continuous innovation
 
-We are committed to building an open low-code/no-code ecosystem that creates value for clients while empowering developers. Through our "co-creation" philosophy, we aim to aggregate collective wisdom and resources, fostering innovation and development for Chinese developers to help every idea flourish within our ecosystem.
+We are committed to building an open low-code/no-code ecosystem that creates value for clients while empowering developers.
 
 #### Mission：_To establish the foundational technology platform for digital-era software products, driving industry transformation, empowering partners, and creating customer value._
 
