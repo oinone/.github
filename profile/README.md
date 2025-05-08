@@ -52,33 +52,33 @@ TODO-PIC
  _Partial clients shown in random order_ 
 
 ### 6. White Paper
-- [White Paper](https://e.gitee.com/shushiwangluo/repos/oinone/docs/tree/dev%2Fprl/src%2Fzh-cn%2FProductWhitePaper)
+- [White Paper](TBD)
 
 ### 7. User Guide
-- [User Guide](https://e.gitee.com/shushiwangluo/repos/oinone/docs/tree/dev%2Fprl/src%2Fzh-cn%2FUserHandbook)
+- [User Guide](TBD)
 
 ### 8. Installation Or Upgrade
-- [Installation Or Upgrade](https://e.gitee.com/shushiwangluo/repos/oinone/docs/tree/dev%2Fprl/src%2Fzh-cn%2FInstallOrUpgrade)
+- [Installation Or Upgrade](TBD)
 
 ### 9. Developer Manual
-- [Installation Or Upgrade](https://e.gitee.com/shushiwangluo/repos/oinone/docs/tree/dev%2Fprl/src%2Fzh-cn%2FDevelopment)
+- [Installation Or Upgrade](TBD)
 
 ### 10. Source Code
 - Get the latest code from github/oinone.
 
 ### 11. Training Center
-- [Training Center](https://e.gitee.com/shushiwangluo/repos/oinone/docs/tree/dev%2Fprl/src%2Fzh-cn%2FTrainingCenter)
+- [Training Center](TBD)
 
 ### 12. Contribution
-- [Contribution](https://e.gitee.com/shushiwangluo/repos/oinone/docs/tree/dev%2Fprl/src%2Fzh-cn%2FContribute)
+- [Contribution](TBD)
 
 ### 13. Community Participation
-- [Join the community](https://e.gitee.com/shushiwangluo/repos/oinone/docs/blob/dev%2Fprl/src%2Fzh-cn%2FContribute%2FREADME.md)
-- [How to contribute](https://e.gitee.com/shushiwangluo/repos/oinone/docs/blob/dev%2Fprl/src%2Fzh-cn%2FContribute%2FREADME.md)
+- [Join the community](TBD)
+- [How to contribute](TBD)
 
 ### 15. License
 - Oinone repository is licensed under AGPL-3.0.
-- [Third party notice](http://https://e.gitee.com/shushiwangluo/repos/oinone/docs/blob/dev%2Fprl/src/zh-cn/ThirdParty/README.md)
+- [Third party notice](TBD)
 
 ### 16. Contact Us
 - Website: https://www.oinone.top
