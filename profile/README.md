@@ -102,7 +102,7 @@ Productization and customization parallel architecture
 
 ### 6. Trusted By
 #### 6.1 Partial clients
-<img width="1466" alt="image" src="https://github.com/user-attachments/assets/ccc84734-70ac-4e3c-be6b-5c09ddbf9572" />
+<img width="1447" alt="image" src="https://github.com/user-attachments/assets/311267d8-59df-423d-9e92-12230022de3a" />
  _Partial, shown in random order_ 
 
 #### 6.2 Partial partners
