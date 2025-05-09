@@ -104,7 +104,7 @@ Productization and customization parallel architecture
  _Partial, shown in random order_ 
 
 #### 6.2 Partial partners
-<img width="1444" alt="image" src="https://github.com/user-attachments/assets/08cfa09b-8756-4646-9aee-16946d21c30d" />
+<img width="1445" alt="image" src="https://github.com/user-attachments/assets/f14ac570-d5c2-4dad-ab23-409e3259c916" />
  _Partial, shown in random order_ 
 
 ### 7. White Paper
