@@ -54,6 +54,7 @@ Unrestricted business scenarios with elastic scaling capabilities.
 #### 5.1 Enhances R&D Efficiency
 ##### 5.1.1 Why Traditional Software Development Is Inefficient?
 <img width="1595" alt="image" src="https://github.com/user-attachments/assets/cab8fc65-1969-4754-9579-308c9628b8a2" />
+
 - Redundant coding efforts across frontend and backend
 - Time-consuming cross-team coordination for integration
 - Recurring basic bugs requiring repeated testing iterations
@@ -67,6 +68,7 @@ Vicious cycle triggered by requirement changes and repeating these processes lea
 
 ##### 5.1.2 How Oinone Drives Significant Efficiency Gains
 <img width="1585" alt="image" src="https://github.com/user-attachments/assets/0087e054-4d72-4d72-aba7-e3bc9e708186" />
+
 - 40%-300% efficiency improvement across full development lifecycle
 - Continuous accumulation of reusable frontend components and industry-specific backend models
 - Talent optimization that mid-level developers deliver senior-level output and senior developers focus on industry capability
@@ -105,34 +107,31 @@ Productization and customization parallel architecture
  _Partial, shown in random order_ 
 
 ### 7. White Paper
-- [White Paper](TBD)
+- [White Paper](https://www.oinone.top/whitePaper)
 
 ### 8. User Guide
-- [User Guide](TBD)
+- [User Guide](https://guide.oinone.top/handbook/UserHandbook)
 
 ### 9. Installation Or Upgrade
-- [Installation Or Upgrade](TBD)
+- [Installation Or Upgrade](https://guide.oinone.top/handbook/InstallUpgrade)
 
 ### 10. Developer Manual
-- [Developer Manual](TBD)
+- [Developer Manual](https://guide.oinone.top/handbook/DevelopmentHandbook)
 
 ### 11. Source Code
 - Get the latest code from gitee.com/oinone.
 
 ### 12. Training Center
-- [Training Center](TBD)
+- [Training Center](https://www.oinone.top/video)
 
-### 13. Contribution
-[Contribution](TBD)
-
-### 14. Community Participation
+### 13. Community Participation
 - Join the community
-- [How to contribute](TBD)
+- [How to contribute](https://guide.oinone.top/handbook/ContributeHandbook)
 
-### 15. License
+### 14. License
 - Oinone repository is licensed under AGPL-3.0.
 - :[Third party notice](TBD)
 
-### 16. Contact Us
+### 15. Contact Us
 - Website: https://www.oinone.top
 - Email: oinone@shushi.pro
