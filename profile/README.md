@@ -17,15 +17,15 @@ Comprehensive coverage of product development and implementation needs.
 ### 3. Platform Overview
 Oinone is a universal R&D platform offering cost-effective solutions for enterprises across three development stages: project-based, industry-specific products, and standardized products. It helps organizations overcome core technical challenges and build proprietary R&D platforms. Our software engineering-driven architecture:
 <img width="1759" alt="image" src="https://github.com/user-attachments/assets/5bdafaac-1a18-4525-bf3f-18e4ba478a20" />
-- Core Capability Layer: Preserves your existing technology stack while integrating your legacy technical capabilities, Oinone's foundational platform strengths and Third-party open-source components.Delivering standardized rapid development frameworks for internet-scale architectures.
+- **Core Capability Layer:** Preserves your existing technology stack while integrating your legacy technical capabilities, Oinone's foundational platform strengths and Third-party open-source components.Delivering standardized rapid development frameworks for internet-scale architectures.
     - 100% metadata-driven architecture enabling flexible business configuration.
     - High-performance internet architecture for distributed systems & high concurrency.
     - Comprehensive software R&D toolset: user management, permissions, messaging, workflows, etc.
     - Advanced integration for heterogeneous systems/data sources.
     - Full lifecycle management for applications/modules.
-- Standard Business Product Layer: Industry-standard products built on unified data models.
-- Customization Layer: Rapid extension and personalization of standard products.
-- No-Code Development: Enables rapid innovation throughout product development and project implementation processes.
+- **Standard Business Product Layer:** Industry-standard products built on unified data models.
+- **Customization Layer:** Rapid extension and personalization of standard products.
+- **No-Code Development:** Enables rapid innovation throughout product development and project implementation processes.
     - Inherit/expand beyond standard product capabilities.
     - Customize standard products.
     - Continuous adaptation to evolving requirements.
@@ -80,6 +80,7 @@ Vicious cycle triggered by requirement changes and repeating these processes lea
 ##### 5.2.1 Current Challenges in Software Productization
 ###### Challenge 1: The Standard Product Delivery Paradox
 <img width="1543" alt="image" src="https://github.com/user-attachments/assets/9561392e-0f99-4961-9628-6aec13131cc8" />
+
 -  **Assumption:**  60% reusable components with isolated 40% customization
 -  **Actual:**  60% average reusability requiring universal adjustments + dependency management
 
@@ -130,7 +131,7 @@ Productization and customization parallel architecture
 
 ### 14. License
 - Oinone repository is licensed under AGPL-3.0.
-- :[Third party notice](TBD)
+- [Third party notice](TBD)
 
 ### 15. Contact Us
 - Website: https://www.oinone.top
