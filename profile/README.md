@@ -1,12 +1,14 @@
 ### 1. Organization Overview
-Oinone, an enterprise-grade productization engine under Shushi Tech, is a unified low-code platform empowering enterprises to drive standardized R&D and agile delivery. Focused on addressing the productization transformation needs of software companies and ISV clients, it resolves the long-standing industry dilemma of fragmented standardized product development and customized delivery through its integrated "Standardized R&D + Agile Delivery" architecture. The "O" symbolizes open source while phonetically resonating with "All in one," symbolizing:
+Oinone, an enterprise-grade productization engine under Shushi Tech, is a unified low-code platform empowering enterprises to drive standardized R&D and agile delivery. Focused on addressing the productization transformation needs of software companies, it resolves the long-standing industry dilemma of fragmented standardized product development and customized delivery through its integrated "Standardized R&D + Agile Delivery" architecture. 
+
+The "O" symbolizes open source while phonetically resonating with "All in one," symbolizing:
  - One-stop solutions
  - Agile responsiveness
  - Continuous innovation
 
 We are committed to building an open low-code/no-code ecosystem that creates value for clients while empowering developers. Through our "co-creation" philosophy, we aim to aggregate collective wisdom and resources, fostering innovation and development for Chinese developers to help every idea flourish within our ecosystem.
 
-#### Mission：_To establish the foundational technology platform for digital-era software products, driving industry transformation, empowering partners, and creating customer value._
+#### Mission：_To establish the foundational technology platform for software products, driving industry transformation, empowering partners, and creating customer value._
 
 ### 2. Product Ecosystem
 Comprehensive coverage of product development and implementation needs.
