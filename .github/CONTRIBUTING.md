@@ -22,9 +22,3 @@
 
 签署方式：
 在首次提交Pull Request时，评论“I have read the CLA and agree to it.”即视为生效。
-
-## Oinone 代码提交规范
-- **分支命名**：
-    - `feature/[模块名]-[功能简述]`（如 `feature/auth-oauth2-support`）
-    - `bugfix/[Issue编号]-[问题简述]`（如 `bugfix/#123-login-error`）
-- **Commit Message格式**： 
