@@ -8,7 +8,7 @@ The "O" symbolizes open source while phonetically resonating with "All in one," 
 
 We are committed to building an open low-code/no-code ecosystem that creates value for clients while empowering developers. Through our "co-creation" philosophy, we aim to aggregate collective wisdom and resources, fostering innovation and development for Chinese developers to help every idea flourish within our ecosystem.
 
-#### Mission：_To establish the foundational technology platform for software products, driving industry transformation, empowering partners, and creating customer value._
+#### Mission：_To establish the foundational technology platform for intelligence software products, driving industry transformation, empowering partners, and creating customer value._
 
 ### 2. Product Ecosystem
 Comprehensive coverage of product development and implementation needs.
