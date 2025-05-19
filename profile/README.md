@@ -17,7 +17,7 @@ Comprehensive coverage of product development and implementation needs.
 
 
 ### 3. Platform Overview
-Oinone is a universal R&D platform offering cost-effective solutions for enterprises across three development stages: project-based, industry-specific products, and standardized products. It helps organizations overcome core technical challenges and build proprietary R&D platforms. Our software engineering-driven architecture:
+Oinone is an enterprise-grade productization engine that focuses on business software product construction and project delivery. It provides cost-effective solutions for enterprises in three development stages: project-based, industry product, and standard product. Oinone helps enterprises efficiently address core technical challenges and build their own R&D platforms. Our software engineering-driven architecture:
 <img width="1759" alt="image" src="https://github.com/user-attachments/assets/5bdafaac-1a18-4525-bf3f-18e4ba478a20" />
 - **Core Capability Layer:** Preserves your existing technology stack while integrating your legacy technical capabilities, Oinone's foundational platform strengths and Third-party open-source components.Delivering standardized rapid development frameworks for internet-scale architectures.
     - 100% metadata-driven architecture enabling flexible business configuration.
