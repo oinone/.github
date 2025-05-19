@@ -128,7 +128,7 @@ Productization and customization parallel architecture
 - [Training Center](https://www.oinone.top/video)
 
 ### 13. Community Participation
-- Join the community
+- Join the community: Go to [[Oinone Community](https://doc.oinone.top/)] ❤️
 - [How to contribute](https://guide.oinone.top/handbook/ContributeHandbook)
 
 ### 14. License
