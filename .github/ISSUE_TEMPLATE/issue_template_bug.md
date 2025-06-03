@@ -7,12 +7,12 @@ labels: ["bug"]
 
 <!-- 请在您提交 bug 之前，回答以下这些问题。 | Please answer these questions before you submit a bug. -->
 
-#### 您使用的版本？ | Your usage version?
+#### 您使用的Oinone版本？ | Which version of Oinone are you using?
 
-#### 您使用的场景？ | Your usage scenarios?
+#### 您使用的场景？ | What is your usage scenario?
 
-#### 您做了什么操作？ | What did you do?
+#### 您做了什么操作？ | What problem did you encounter?
 
-#### 您遇到了什么问题？ | What are your problems?
+#### 您遇到了什么问题？ | What problem did you encounter?
 
-#### 您期望的结果是怎样的？ | What is your expected outcome?
+#### 您期望的结果是怎样的？ | What result were you expecting?

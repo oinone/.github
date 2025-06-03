@@ -11,7 +11,7 @@ labels: ["question"]
 
 请在提交问题之前回答这些问题，谢谢。 | Please answer these questions before submitting them. Thank you.
 
-### 你使用了哪个版本？ | Which version did you use?
+### 你使用了哪个Oinone版本？ | Which version of Oinone are you using?
 
 ### 预期行为 | Expected behavior
 
