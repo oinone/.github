@@ -115,7 +115,7 @@ Productization and customization parallel architecture
 - [Developer Manual](https://guide.oinone.top/zh-cn/Development)
 
 ### 11. Source Code
-- Get the latest code from gitee.com/oinone.
+- Get the latest code from [github.com/oinone](https://github.com/Oinone).
 
 ### 12. Training Center
 - [Training Center](https://www.oinone.top/video)
