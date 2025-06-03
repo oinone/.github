@@ -12,22 +12,21 @@ We are committed to building an open low-code/no-code ecosystem that creates val
 
 ### 2. Product Ecosystem
 Comprehensive coverage of product development and implementation needs.
-<img width="1707" alt="image" src="https://github.com/user-attachments/assets/46452f63-100d-4fd1-ae67-e2b459deef09" />
-<img width="1651" alt="image" src="https://github.com/user-attachments/assets/073e4578-e4fc-4306-a9dd-dde4002974d4" />
-
+![Product Ecosystem](http://oinone-jar.oss-cn-zhangjiakou.aliyuncs.com/welcome-document/Open%20Source/en/1.Product%20Ecosystem-1.png "Product Ecosystem")
+![Product Ecosystem](http://oinone-jar.oss-cn-zhangjiakou.aliyuncs.com/welcome-document/Open%20Source/en/2.Product%20Ecosystem-2.png "Product Ecosystem")
 
 ### 3. Platform Overview
 Oinone is an enterprise-grade productization engine that focuses on business software product construction and project delivery. It provides cost-effective solutions for enterprises in three development stages: project-based, industry product, and standard product. Oinone helps enterprises efficiently address core technical challenges and build their own R&D platforms. Our software engineering-driven architecture:
-<img width="1759" alt="image" src="https://github.com/user-attachments/assets/5bdafaac-1a18-4525-bf3f-18e4ba478a20" />
-- **Core Capability Layer:** Preserves your existing technology stack while integrating your legacy technical capabilities, Oinone's foundational platform strengths and Third-party open-source components.Delivering standardized rapid development frameworks for internet-scale architectures.
+![Platform Overview](http://oinone-jar.oss-cn-zhangjiakou.aliyuncs.com/welcome-document/Open%20Source/en/3.Platform%20Overview.png "Platform Overview")
+- Core Capability Layer: Preserves your existing technology stack while integrating your legacy technical capabilities, Oinone's foundational platform strengths and Third-party open-source components.Delivering standardized rapid development frameworks for internet-scale architectures.
     - 100% metadata-driven architecture enabling flexible business configuration.
     - High-performance internet architecture for distributed systems & high concurrency.
     - Comprehensive software R&D toolset: user management, permissions, messaging, workflows, etc.
     - Advanced integration for heterogeneous systems/data sources.
     - Full lifecycle management for applications/modules.
-- **Standard Business Product Layer:** Industry-standard products built on unified data models.
-- **Customization Layer:** Rapid extension and personalization of standard products.
-- **No-Code Development:** Enables rapid innovation throughout product development and project implementation processes.
+- Standard Business Product Layer: Industry-standard products built on unified data models.
+- Customization Layer: Rapid extension and personalization of standard products.
+- No-Code Development: Enables rapid innovation throughout product development and project implementation processes.
     - Inherit/expand beyond standard product capabilities.
     - Customize standard products.
     - Continuous adaptation to evolving requirements.
@@ -37,26 +36,24 @@ Oinone is an enterprise-grade productization engine that focuses on business sof
 _Coexistence of standardized upgrades and customized modules._
 - Seamless migration of standard upgrades to client projects.
 - Zero interference between upgrades and customizations.
-<img width="1383" alt="image" src="https://github.com/user-attachments/assets/ed379c39-95a8-4cb2-9619-8942f9d5345e" />
-
+![for](http://oinone-jar.oss-cn-zhangjiakou.aliyuncs.com/welcome-document/Open%20Source/en/4.1.For%20Software%20Companies.png "for")
 
 #### 4.2 Unified Low-Code/No-Code
 A low-code foundation with no-code innovation capabilities, serving both developers and non-technical users.
-<img width="1489" alt="image" src="https://github.com/user-attachments/assets/d4c558db-b20b-420e-bf61-7528be8edf07" />
+![Unified Low-Code/No-Code](http://oinone-jar.oss-cn-zhangjiakou.aliyuncs.com/welcome-document/Open%20Source/en/4.2.Unified%20Low-Code%3ANo-Code.png "Unified Low-Code/No-Code")
 
 #### 4.3 High Extensibility
 Framework-to-component level extensibility for building industry-specific platforms. Open-source code + technical guides reveal core mechanisms.
-<img width="1693" alt="image" src="https://github.com/user-attachments/assets/51e9d18a-cc0c-4320-9195-bad30f0096ac" />
+![Extensibility](http://oinone-jar.oss-cn-zhangjiakou.aliyuncs.com/welcome-document/Open%20Source/en/4.3.High%20Extensibility.png "Extensibility")
 
 #### 4.4 Seamless Integration
 Unrestricted business scenarios with elastic scaling capabilities.
-<img width="1710" alt="image" src="https://github.com/user-attachments/assets/f9ec3833-a3bc-47a1-be0c-ee891c5723eb" />
+![Seamless Integration](http://oinone-jar.oss-cn-zhangjiakou.aliyuncs.com/welcome-document/Open%20Source/en/4.4.Seamless%20Integration.png "Seamless Integration")
 
 ### 5、Platform Value
 #### 5.1 Enhances R&D Efficiency
 ##### 5.1.1 Why Traditional Software Development Is Inefficient?
-<img width="1595" alt="image" src="https://github.com/user-attachments/assets/cab8fc65-1969-4754-9579-308c9628b8a2" />
-
+![Traditional](http://oinone-jar.oss-cn-zhangjiakou.aliyuncs.com/welcome-document/Open%20Source/en/5.1.Traditional%20R%26D.png "Traditional")
 - Redundant coding efforts across frontend and backend
 - Time-consuming cross-team coordination for integration
 - Recurring basic bugs requiring repeated testing iterations
@@ -69,20 +66,18 @@ Vicious cycle triggered by requirement changes and repeating these processes lea
 - Self-perpetuating inefficiency loops
 
 ##### 5.1.2 How Oinone Drives Significant Efficiency Gains
-<img width="1585" alt="image" src="https://github.com/user-attachments/assets/0087e054-4d72-4d72-aba7-e3bc9e708186" />
-
+![Oinone](http://oinone-jar.oss-cn-zhangjiakou.aliyuncs.com/welcome-document/Open%20Source/en/5.2.Oinone%20R%26D.png "Oinone")
 - 40%-300% efficiency improvement across full development lifecycle
 - Continuous accumulation of reusable frontend components and industry-specific backend models
 - Talent optimization that mid-level developers deliver senior-level output and senior developers focus on industry capability
 
 ##### 5.1.3 Efficiency Benchmark Overview
-<img width="1602" alt="image" src="https://github.com/user-attachments/assets/38749742-65c5-4fa9-a118-b87f20cfd1fd" />
+![Efficiency](http://oinone-jar.oss-cn-zhangjiakou.aliyuncs.com/welcome-document/Open%20Source/en/5.3.Efficiency%20Overview.png "Efficiency")
 
 #### 5.2 Productization Enablement
 ##### 5.2.1 Current Challenges in Software Productization
 ###### Challenge 1: The Standard Product Delivery Paradox
-<img width="1543" alt="image" src="https://github.com/user-attachments/assets/9561392e-0f99-4961-9628-6aec13131cc8" />
-
+![reusable](http://oinone-jar.oss-cn-zhangjiakou.aliyuncs.com/welcome-document/Open%20Source/en/5.4.The%20Standard%20Product%20Delivery%20Paradox.png "reusable")
 -  **Assumption:**  60% reusable components with isolated 40% customization
 -  **Actual:**  60% average reusability requiring universal adjustments + dependency management
 
@@ -91,35 +86,33 @@ Root causes:
 - Misjudged reusability metrics that "60%" represents feature-level average(not holistic applicability), customizations create irregular complexity distribution and market-driven erosion: 60% → 30% annual reusability decline.
 
 ###### Challenge 2: Flawed Delivery Models
-<img width="1688" alt="image" src="https://github.com/user-attachments/assets/3b373411-135a-434a-8631-99cf54990389" />
+![Delivery models](http://oinone-jar.oss-cn-zhangjiakou.aliyuncs.com/welcome-document/Open%20Source/en/5.5.Flawed%20Delivery%20Models.png "Delivery models")
 Two problematic approaches:
 - Branch Copy Delivery: Upgrade bottlenecks, maintenance complexity, knowledge silo formation
 - Unified Product Delivery: Endless customization conflicts, implementation team backlog accumulation
 
 ##### 5.2.2 Oinone's Productization Architecture
-<img width="1647" alt="image" src="https://github.com/user-attachments/assets/ee877638-9a9b-43e3-8531-08572f0edcbb" />
+![Productization Architecture](http://oinone-jar.oss-cn-zhangjiakou.aliyuncs.com/welcome-document/Open%20Source/en/5.6.Oinone's%20Productization%20Architecture.png "Productization Architecture")
 Productization and customization parallel architecture
 
 ### 6. Trusted By
-#### 6.1 Partial clients
-<img width="1447" alt="image" src="https://github.com/user-attachments/assets/311267d8-59df-423d-9e92-12230022de3a" />
- _Partial, shown in random order_ 
-
-#### 6.2 Partial partners
-<img width="1445" alt="image" src="https://github.com/user-attachments/assets/f14ac570-d5c2-4dad-ab23-409e3259c916" />
+#### 6.1 Partial Clients
+![Clients](http://oinone-jar.oss-cn-zhangjiakou.aliyuncs.com/welcome-document/Open%20Source/en/6.1.Partial%20Clients.png "Clients")
+#### 6.2 Partial Partners
+![Partners](http://oinone-jar.oss-cn-zhangjiakou.aliyuncs.com/welcome-document/Open%20Source/en/6.2.Partial%20partners.png "Partners")
  _Partial, shown in random order_ 
 
 ### 7. White Paper
 - [White Paper](https://www.oinone.top/whitePaper)
 
 ### 8. User Guide
-- [User Guide](https://guide.oinone.top/handbook/UserHandbook)
+- [User Guide](https://guide.oinone.top/zh-cn/UserHandbook)
 
 ### 9. Installation Or Upgrade
-- [Installation Or Upgrade](https://guide.oinone.top/handbook/InstallUpgrade)
+- [Installation Or Upgrade](https://guide.oinone.top/zh-cn/InstallOrUpgrade)
 
 ### 10. Developer Manual
-- [Developer Manual](https://guide.oinone.top/handbook/DevelopmentHandbook)
+- [Developer Manual](https://guide.oinone.top/zh-cn/Development)
 
 ### 11. Source Code
 - Get the latest code from gitee.com/oinone.
@@ -128,12 +121,12 @@ Productization and customization parallel architecture
 - [Training Center](https://www.oinone.top/video)
 
 ### 13. Community Participation
-- Join the community: Go to [[Oinone Community](https://doc.oinone.top/)] ❤️
-- [How to contribute](https://guide.oinone.top/handbook/ContributeHandbook)
+- Join the community: Go to [[Oinone Community](https://doc.oinone.top)] ❤️
+- [How to contribute](https://guide.oinone.top/zh-cn/Contribute)
 
 ### 14. License
 - Oinone repository is licensed under AGPL-3.0.
-- [Third party notice](TBD)
+- [Third party notice](https://e.gitee.com/shushiwangluo/repos/oinone/docs/blob/dev%2Fprl/src/zh-cn/ThirdParty/README.md)
 
 ### 15. Contact Us
 - Website: https://www.oinone.top
