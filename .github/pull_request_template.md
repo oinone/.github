@@ -14,5 +14,7 @@
 What is the intended usage or context for this change?
 
 
+[Contributor License Agreement](https://guide.oinone.top/zh-cn/Contribute/cla.html)
+
 ---
 I have read the CLA and agree to it.
