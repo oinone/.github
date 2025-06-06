@@ -12,12 +12,12 @@ We are committed to building an open low-code/no-code ecosystem that creates val
 
 ### 2. Product Ecosystem
 Comprehensive coverage of product development and implementation needs.
-![Product Ecosystem](http://oinone-jar.oss-cn-zhangjiakou.aliyuncs.com/welcome-document/Open%20Source/en/1.Product%20Ecosystem-1.png "Product Ecosystem")
-![Product Ecosystem](http://oinone-jar.oss-cn-zhangjiakou.aliyuncs.com/welcome-document/Open%20Source/en/2.Product%20Ecosystem-2.png "Product Ecosystem")
+<img width="1705" alt="1 Product Ecosystem-1" src="https://github.com/user-attachments/assets/2408dc4c-b41b-41cf-a3c9-e3bc42b0c3b2" />
+<img width="1645" alt="2 Product Ecosystem-2" src="https://github.com/user-attachments/assets/ece27756-f4dc-4ef3-9c0e-19e74b486dfa" />
 
 ### 3. Platform Overview
 Oinone is an enterprise-grade productization engine that focuses on business software product construction and project delivery. It provides cost-effective solutions for enterprises in three development stages: project-based, industry product, and standard product. Oinone helps enterprises efficiently address core technical challenges and build their own R&D platforms. Our software engineering-driven architecture:
-![Platform Overview](http://oinone-jar.oss-cn-zhangjiakou.aliyuncs.com/welcome-document/Open%20Source/en/3.Platform%20Overview.png "Platform Overview")
+<img width="1763" alt="3 Platform Overview" src="https://github.com/user-attachments/assets/ede88c75-9c97-4148-8299-b97e932a2221" />
 -  **Core Capability Layer:**  Preserves your existing technology stack while integrating your legacy technical capabilities, Oinone's foundational platform strengths and Third-party open-source components.Delivering standardized rapid development frameworks for internet-scale architectures.
     - 100% metadata-driven architecture enabling flexible business configuration.
     - High-performance internet architecture for distributed systems & high concurrency.
@@ -29,16 +29,17 @@ Oinone is an enterprise-grade productization engine that focuses on business sof
 -  **No-Code Development:**  Enables rapid innovation throughout product development and project implementation processes.
 
 ### 4. Platform Value
-![Platform Value](http://oinone-jar.oss-cn-zhangjiakou.aliyuncs.com/welcome-document/Open%20Source/en/Platform%20Value.png)
+<img width="1636" alt="Platform Value" src="https://github.com/user-attachments/assets/5a2bb2ea-c550-4e0c-b9ce-fe50ea092026" />
 
 ### 5. Key Features
-![Key Features](http://oinone-jar.oss-cn-zhangjiakou.aliyuncs.com/welcome-document/Open%20Source/en/Key%20Features.png)
+<img width="1593" alt="Key Features" src="https://github.com/user-attachments/assets/f392b30e-e256-46aa-b588-de98f0919bef" />
 
 ### 6. Trusted By
 #### 6.1 Partial Clients
-![Clients](http://oinone-jar.oss-cn-zhangjiakou.aliyuncs.com/welcome-document/Open%20Source/en/6.1.Partial%20Clients.png "Clients")
+<img width="1476" alt="6 1 Partial Clients" src="https://github.com/user-attachments/assets/fd270f16-ff53-4821-a86a-ef78aed535b4" />
+
 #### 6.2 Partial Partners
-![Partners](http://oinone-jar.oss-cn-zhangjiakou.aliyuncs.com/welcome-document/Open%20Source/en/6.2.Partial%20partners.png "Partners")
+<img width="1445" alt="6 2 Partial partners" src="https://github.com/user-attachments/assets/b7c93955-6b01-4d16-b205-bcebdd8e7a60" />
  _Partial, shown in random order_ 
 
 ### 7. Links
