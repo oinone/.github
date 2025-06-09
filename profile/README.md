@@ -37,6 +37,7 @@ Oinone is an enterprise-grade productization engine that focuses on business sof
 ### 6. Trusted By
 #### 6.1 Partial Clients
 <img width="1476" alt="6 1 Partial Clients" src="https://github.com/user-attachments/assets/fd270f16-ff53-4821-a86a-ef78aed535b4" />
+_Partial, shown in random order_ 
 
 #### 6.2 Partial Partners
 <img width="1445" alt="6 2 Partial partners" src="https://github.com/user-attachments/assets/b7c93955-6b01-4d16-b205-bcebdd8e7a60" />
@@ -58,7 +59,6 @@ Oinone is an enterprise-grade productization engine that focuses on business sof
 
 ### 10. License
 - Oinone repository is licensed under AGPL-3.0.
-- [Third party notice]()
 
 ### 11. Contact Us
 - Website: https://www.oinone.top
