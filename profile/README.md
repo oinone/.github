@@ -59,6 +59,7 @@ _Partial, shown in random order_
 
 ### 10. License
 - Oinone repository is licensed under AGPL-3.0.
+- [Third Party Open Source Software and License Notice](https://guide.oinone.top/en/Third-Party-Open-Source-Software-And-License-Notice.html)
 
 ### 11. Contact Us
 - Website: https://www.oinone.top
