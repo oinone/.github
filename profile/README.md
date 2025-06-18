@@ -44,7 +44,7 @@ _Partial, shown in random order_
  _Partial, shown in random order_ 
 
 ### 7. Links
-- [ **White Paper** ](https://www.oinone.top/whitePaper)
+- [ **White Paper** ](https://www.oinone.top/whitePaper){:target="_blank"}
 - [ **User Manual** ](https://guide.oinone.top/zh-cn/UserManual)
 - [ **Installation Or Upgrade** ](https://guide.oinone.top/zh-cn/InstallOrUpgrade)
 - [ **Developer Manual** ](https://guide.oinone.top/zh-cn/DevManual)
