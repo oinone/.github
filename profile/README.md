@@ -45,9 +45,9 @@ _Partial, shown in random order_
 
 ### 7. Links
 - [ **White Paper** ](https://www.oinone.top/whitePaper)
-- [ **User Manual** ](https://guide.oinone.top/zh-cn/UserManual)
-- [ **Installation Or Upgrade** ](https://guide.oinone.top/zh-cn/InstallOrUpgrade)
-- [ **Developer Manual** ](https://guide.oinone.top/zh-cn/DevManual)
+- [ **User Manual** ](https://guide.oinone.top/en/UserManual)
+- [ **Installation Or Upgrade** ](https://guide.oinone.top/en/InstallOrUpgrade)
+- [ **Developer Manual** ](https://guide.oinone.top/en/DevManual)
 - [ **Training Center** ](https://www.oinone.top/video)
 
 ### 8. Source Code
@@ -55,7 +55,7 @@ _Partial, shown in random order_
 
 ### 9. Community Participation
 - Join the community: Go to [[Oinone Community](https://doc.oinone.top)] ❤️
-- [How to contribute](https://guide.oinone.top/zh-cn/Contribute)
+- [How to contribute](https://guide.oinone.top/en/Contribute)
 
 ### 10. License
 - Oinone repository is licensed under AGPL-3.0.
