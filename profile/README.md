@@ -1,5 +1,5 @@
 ### 1. Organization Overview
-Oinone, an AI-Powered Low-Code Framework under Shushi Tech, positioned as infrastructure for AI-Native applications.
+Oinone, an AI-Powered Low-Code Framework positioned as infrastructure for AI-Native applications.
 
 The "O" symbolizes open source while phonetically resonating with "All in one," symbolizing:
  - One-stop solutions
