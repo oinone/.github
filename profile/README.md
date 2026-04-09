@@ -46,17 +46,16 @@ Aino, which stands for AI Innovation and is a near-homophone of I Know, An ontol
  _Partial, shown in random order_ 
 
 ### 7. Links
-- [ **User Manual** ](https://guide.oinone.top/en/UserManual)
-- [ **Installation Or Upgrade** ](https://guide.oinone.top/en/InstallOrUpgrade)
-- [ **Developer Manual** ](https://guide.oinone.top/en/DevManual)
-- [ **Training Center** ](https://www.oinone.top/video)
+- [ **User Manual** ](https://guide.oinone.top/en/UserManual/README.html)
+- [ **Installation Or Upgrade** ](https://guide.oinone.top/en/InstallOrUpgrade/CommunityEdition.html)
+- [ **Developer Manual** ](https://guide.oinone.top/en/DevManual/README.html)
 
 ### 8. Source Code
-- Get the latest code from [gitee.com/oinone](https://gitee.com/oinone).
+- Get the latest code from [github.com/oinone](https://github.com/oinone).
 
 ### 9. Community Participation
 - Join the community: Go to [[Oinone Community](https://doc.oinone.top)] ❤️
-- [How to contribute](https://guide.oinone.top/en/Contribute)
+- [How to contribute](https://guide.oinone.top/en/Contribute/cla.html)
 
 ### 10. License
 - Oinone repository is licensed under AGPL-3.0.
